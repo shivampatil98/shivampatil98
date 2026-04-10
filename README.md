@@ -13,8 +13,7 @@ Career interests include:
 
 **Currently seeking** opportunities where I can apply my skills in AI, data science, and optimization to drive innovation, improve decision-making, and deliver high-quality products.
 
-### Tech Stack
-Python | ML | DL | CV | NLP
+## 🛠 Skills & Expertise
 
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -26,10 +25,22 @@ Python | ML | DL | CV | NLP
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-** Cloud Platforms & Deployment**
-AWS Google Cloud Docker
+### Data Analytics & Visualization
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
-AWS EC2
-Google Cloud AI Platform, BigQuery
-Docker containerization for ML workflows
-CI/CD basics for ML deployment
+- Data Wrangling, EDA, Feature Engineering
+- Statistical Analysis & Hypothesis Testing
+- Interactive Dashboard Development
+
+### Cloud Platforms & Deployment
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+- AWS EC2
+- Google Cloud AI Platform, BigQuery
+- Docker containerization for ML workflows
+- CI/CD basics for ML deployment
