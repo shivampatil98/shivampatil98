@@ -19,6 +19,22 @@ Career interests include:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
 
+### 🤖 Machine Learning & AI
+
+- **Classical ML:** Supervised & Unsupervised Learning, Regression, Classification, Clustering, Feature Engineering, Model Evaluation  
+- **Deep Learning:** CNNs, RNNs, LSTMs, Transformers, Attention Mechanisms  
+- **Computer Vision:** Image Classification, Object Detection & segmentation, Image Processing, Feature Extraction  
+- **Applied ML:** Predictive Maintenance, Optimization, Industrial Data Modeling  
+
+#### 🔧 Key Libraries
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154F3B?style=for-the-badge)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)
+
 ### ⚙️ Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
