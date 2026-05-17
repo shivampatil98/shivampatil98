@@ -13,6 +13,8 @@ Career interests include:
 
 **Currently seeking** opportunities where I can apply my skills in AI, data science, and optimization to drive innovation, improve decision-making, and deliver high-quality products.
 
+**Abgesehen von meiner beruflichen Laufbahn lerne ich weiterhin Deutsch und verbessere meine Sprachkenntnisse auf B1-Niveau, damit ich besser im deutschen Arbeitsumfeld zusammenarbeiten kann.**
+
 ## 🛠 Skills & Expertise
 
 ### 💻 Programming Languages
