@@ -3,7 +3,7 @@
 ### About Me
 I’m a Graduate Student at RWTH University, aspiring to be a Data scientist & AI engineer with a passion for solving complex problems through technology.
 
-I combine a strong foundation in Mechanical Engineering & programming with deep analytical skills to design solutions that are accurate, efficient, and user-centric.
+I bring strong foundation in Mechanical Engineering, Mathematical Optimization & programming with deep analytical skills to design solutions that are accurate, efficient, and user-centric.
 
 Career interests include:
 
